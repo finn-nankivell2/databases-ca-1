@@ -1,0 +1,16 @@
+1	The Big Lebowski	Ultimate L.A. slacker Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire's missing wife.	15	8.99	1
+2	Fantastic Mr. Fox	An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.	3	7.99	6
+3	Shark Tale	When a son of a gangster shark boss is accidentally killed while on the hunt, his would-be prey and his vegetarian brother decide to use the incident to their own advantage.	3	4.99	5
+4	Princess Mononoke	On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.	12	9.99	2
+5	My Neighbour Totoro	When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.	3	9.99	2
+6	Drive My Car	A renowned stage actor and director learns to cope with a big personal loss when he receives an offer to direct a production of Uncle Vanya in Hiroshima.	3	9.99	4
+7	A Serious Man	Larry Gopnik, a Midwestern physics teacher, watches his life unravel over multiple sudden incidents. Though seeking meaning and answers amidst his turmoils, he seems to keep sinking.	12	7.99	1
+8	Decision To Leave	A detective investigating a man's death in the mountains meets the dead man's mysterious wife in the course of his dogged sleuthing.	15	10.99	4
+9	Banshees of Inisherin	Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.	15	11.99	1
+10	Everything Everywhere All At Once	A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.	15	11.99	1
+11	The Iron Giant	A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.	3	5.99	2
+12	The Incredibles	While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.	3	4.99	3
+13	Hit the Road	Follows a chaotic, tender family that is on a road trip across a rugged landscape and fussing over the sick dog and getting on each others' nerves. Only the mysterious older brother is quiet.	12	7.99	4
+14	Little Miss Sunshine	A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.	15	6.99	1
+15	Tangled	The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.	3	4.99	3
+

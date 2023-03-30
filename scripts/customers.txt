@@ -1,0 +1,16 @@
+1	Roger Woodard	03-06-66	46 Grandison Road, Liverpool	Gold
+2	Conner Friedman	03-11-49	2 Alba Close, Hayes	Regular
+3	Andreas Saunders	10-12-29	2 Ragnall Cottage, Ragnalls Lane, Horton Cum Studley	Regular
+4	Summer Rodgers	21-04-79	Flat 3A Rear, 3A Prince Of Wales Road, Bournemouth	Regular
+5	Aiza Ayers	349-26	25 Shamrock Way, London	Regular
+6	Lorraine Stevenson	315-35	51 Randolph Road, Portsmouth, PO2 0SU	Gold
+7	Jim Boyer	362-55	Flat 13, The Beeches, London Road, Mitcham, CR4 4BH	Platinum
+8	Amanda Lawson	368-90	27 Ferry Lane, Offenham, WR11 8RT	Gold
+9	Everett Kirk	371-16	Bacons Yard, Aubrey North Farm, Keyhaven, SO41 0TH	Regular
+10	Shannon Fischer	372-86	1 Meadow Cottages, Ironbridge Road, Madeley, TF7 5JX	Regular
+11	Sameer Khan	357-72	10 Plantation Close, Attleborough, NR17 2LY	Regular
+12	Gareth Ellis	332-46	Gwelfryn, Penysarn, LL69 9YS	Platinum
+13	Emilie Wilkins	366-79	2 The Gallery, 38 Ludgate Hill, London, EC4M 7DE	Gold
+14	Safia Watts	335-75	3 Noonan Close, Redditch, B97 4NN	Regular
+15	Murray Trujillo	311-76	11 Westfield Drive, Crook, DL15 9NX	Gold
+
